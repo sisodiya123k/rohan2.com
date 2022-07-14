@@ -1,0 +1,64 @@
+/* div14 a{
+    margin-left: ;
+} */
+div20 h1{
+    margin-top: -78px;
+
+}
+div16 img{
+    margin-bottom: -50vh;
+    margin-left: 350px;
+}
+div h2:hover{
+    color: red;
+}
+
+div14 button{background-color: yellow;
+    width: 32vh;
+    border-radius: 12vh;
+    
+}
+div14 button{
+    background-color: yellow;
+}  
+div14 button:hover{
+    background-color: blueviolet;
+}
+div19 button{
+    background-color: yellow;
+    width: 32vh;
+    border-radius: 12vh;
+}
+div19 button:hover{
+    background-color: green;
+}
+div20 h1{
+    margin-left: 12px;
+    text-align: center;
+    justify-content: center;
+    /* display: flex; */
+    width: 210px;
+    /* background-color: blue; */
+    /* color: red; */
+    animation: aanimate 3s;
+    animation-iteration-count: infinite;
+    animation-direction:alternate-reverse;
+    animation-delay: 1s;
+    animation-timing-function: ease-in-out;
+}
+
+@keyframes aanimate {
+from{
+    width: 220px;
+    
+}to{
+    width: 280px;
+}    
+}
+div21 h3{
+    color: blue;
+}
+div21 input{
+    color: black;
+    background-color:yell
+}

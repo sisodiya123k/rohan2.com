@@ -1,0 +1,41 @@
+/* div12 ul{
+    background-color: yellow;
+    width: 10vh;
+    margin-top: -40vh;
+    /* display: flex; */
+    /* animation: kani 3s;
+
+}
+@keyframes kani{
+    from{
+        width: 12px;
+    }
+    to{
+        width: 19px;
+    }
+} */
+/* ::-webkit-slider-runnable-track */ 
+div15 img{
+    margin-left: 90vh;
+    height: 60vh;
+    margin-top: 2vh;
+    background-color: brown;
+}
+div16 img{
+    height: 60vh;
+    margin-left: 40vh;
+    margin-top: -64vh;
+    margin-top: -423vh;
+    /* margin-top: -723px; */
+    /* padding-top: 2vh; */
+    background-color: blue;
+    /* color: blue; */
+}
+div15 img{
+    margin-top: -15vh;
+    color: #000;
+}
+div14 a{
+    /* margin-left: -24vh; */
+    
+}
